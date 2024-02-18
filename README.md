@@ -1,3 +1,9 @@
+<div align="center">
+  
+  [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FLIGMATV%2FMagic-CSS&project-name=magic-css&repository-name=Magic-CSS)
+  
+</div>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
